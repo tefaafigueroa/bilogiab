@@ -5,7 +5,7 @@ video{
 }
 
 ion-content{
-	background:url("https://i.pinimg.com/736x/c3/66/01/c36601c81c51dbda3099725348ac9e01.jpg"); 
+	background:url("https://i.blogs.es/ec9d2d/wallpaper_lg-g3/450_1000.jpg"); 
 	 background-repeat: no-repeat;
 	 background-size: cover;
 
@@ -450,4 +450,72 @@ p.counter {
 .frente:hover {
   background: #E8A868;
   cursor: pointer;
+}
+{
+  
+}
+.nutrifacts-html {
+  padding: 2px;
+  font-family:"Helvetica";
+  font-size: 12px;
+  float:left;
+  border: 2px solid black;
+  width:250px;
+  margin-top:2px;
+  }
+.nutrifacts-html table{
+  border-collapse: collapse;
+  width: 100%
+}
+.nutrifacts-html td {
+  border-top: 1px solid black;
+}
+.nutrifacts-html h2 {
+  margin:0;
+  font-size:29px; 
+}
+.separator {
+  height:7px;
+  background-color:black;
+  margin-top:2px;
+}
+.alineartexto {
+  text-align:right;
+}
+.alinearcantidad {
+  text-align:right;
+}
+{
+  
+}
+.nutrifacts-html {
+  padding: 2px;
+  font-family:"Helvetica";
+  font-size: 12px;
+  float:left;
+  border: 2px solid black;
+  width:250px;
+  margin-top:2px;
+  }
+.nutrifacts-html table{
+  border-collapse: collapse;
+  width: 100%
+}
+.nutrifacts-html td {
+  border-top: 1px solid black;
+}
+.nutrifacts-html h2 {
+  margin:0;
+  font-size:29px; 
+}
+.separator {
+  height:7px;
+  background-color:black;
+  margin-top:2px;
+}
+.alineartexto {
+  text-align:right;
+}
+.alinearcantidad {
+  text-align:right;
 }
