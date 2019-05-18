@@ -42,24 +42,24 @@ var fields = document.querySelectorAll(".atras");
 
 
 var images = [
-"https://s-media-cache-ak0.pinimg.com/originals/30/9b/58/309b58c5153182dc480d429d21bb1ec1.png",
-"https://s-media-cache-ak0.pinimg.com/originals/4b/ae/6c/4bae6cba8ec4060b5c4059ad2ce9c329.png",
-"https://s-media-cache-ak0.pinimg.com/originals/b6/df/d7/b6dfd79c625f9ebe14709a9b75224962.png",
-"https://s-media-cache-ak0.pinimg.com/originals/76/e7/a3/76e7a392abff7c8a22969f7c95f37d4c.png",
-"https://s-media-cache-ak0.pinimg.com/originals/cb/ca/50/cbca50fc5156fb15b68bd3ab5dae6e06.png",
-"https://s-media-cache-ak0.pinimg.com/originals/de/b9/70/deb9709e87f1d5b7f6457e8286113012.png",
-"https://s-media-cache-ak0.pinimg.com/originals/29/9e/c7/299ec7c3cd62b88dd4905ffc6a71d8f9.png",
-"https://s-media-cache-ak0.pinimg.com/originals/74/11/00/74110094c67aa9a519c70ecb7cec7d76.png",
-"http://diysolarpanelsv.com/images/neville-clipart-4.png",
-"https://s-media-cache-ak0.pinimg.com/originals/30/9b/58/309b58c5153182dc480d429d21bb1ec1.png",
-"https://s-media-cache-ak0.pinimg.com/originals/4b/ae/6c/4bae6cba8ec4060b5c4059ad2ce9c329.png",
-"https://s-media-cache-ak0.pinimg.com/originals/b6/df/d7/b6dfd79c625f9ebe14709a9b75224962.png",
-"https://s-media-cache-ak0.pinimg.com/originals/76/e7/a3/76e7a392abff7c8a22969f7c95f37d4c.png",
-"https://s-media-cache-ak0.pinimg.com/originals/cb/ca/50/cbca50fc5156fb15b68bd3ab5dae6e06.png",
-"https://s-media-cache-ak0.pinimg.com/originals/de/b9/70/deb9709e87f1d5b7f6457e8286113012.png",
-"https://s-media-cache-ak0.pinimg.com/originals/29/9e/c7/299ec7c3cd62b88dd4905ffc6a71d8f9.png",
-"https://s-media-cache-ak0.pinimg.com/originals/74/11/00/74110094c67aa9a519c70ecb7cec7d76.png",
-"http://diysolarpanelsv.com/images/neville-clipart-4.png"
+"http://libbys.es/wordpress/wp-content/uploads/2014/12/vitamina-c-web.jpg",
+"http://libbys.es/wordpress/wp-content/uploads/2014/12/vitamina-c-web.jpg",
+"https://frutas-con.com/wp-content/uploads/2017/10/frutas-con-vitamina-c.jpg",
+"https://frutas-con.com/wp-content/uploads/2017/10/frutas-con-vitamina-c.jpg",
+"https://i2.wp.com/www.healthyforkful.com/wp-content/uploads/2018/11/heart-1480779_640.png?fit=579%2C640&ssl=1",
+"https://i2.wp.com/www.healthyforkful.com/wp-content/uploads/2018/11/heart-1480779_640.png?fit=579%2C640&ssl=1",
+"https://image.freepik.com/vector-gratis/infografia-sobre-vitaminas-frutas-verduras_23-2147592004.jpg",
+"https://image.freepik.com/vector-gratis/infografia-sobre-vitaminas-frutas-verduras_23-2147592004.jpg",
+"hhttp://canalsaludybelleza.com/wp-content/uploads/2015/02/Viamina-C_02-Copiar.jpg",
+"http://canalsaludybelleza.com/wp-content/uploads/2015/02/Viamina-C_02-Copiar.jpg",
+"https://www.hola.com/imagenes/estar-bien/20180716127026/estas-son-las-frutas-que-necesitas-segun-las-vitaminas-que-te-faltan-cs/0-584-513/platano-z.jpg",
+"https://www.hola.com/imagenes/estar-bien/20180716127026/estas-son-las-frutas-que-necesitas-segun-las-vitaminas-que-te-faltan-cs/0-584-513/platano-z.jpg",
+"https://previews.123rf.com/images/kulyk/kulyk1507/kulyk150700018/44033450-las-vitaminas-y-los-minerales-de-la-fruta-de-banano-infograf%C3%ADa-sobre-los-nutrientes-en-el-banano-ilust.jpg",
+"https://previews.123rf.com/images/kulyk/kulyk1507/kulyk150700018/44033450-las-vitaminas-y-los-minerales-de-la-fruta-de-banano-infograf%C3%ADa-sobre-los-nutrientes-en-el-banano-ilust.jpg",
+"https://t2.uc.ltmcdn.com/images/1/4/2/frutas_y_verduras_con_vitamina_e_49241_600.jpg",
+"https://t2.uc.ltmcdn.com/images/1/4/2/frutas_y_verduras_con_vitamina_e_49241_600.jpg",
+"hhttps://www.ecured.cu/images/thumb/5/51/Vitaminas_y_Frutas01.jpeg/200px-Vitaminas_y_Frutas01.jpeg",
+"https://www.ecured.cu/images/thumb/5/51/Vitaminas_y_Frutas01.jpeg/200px-Vitaminas_y_Frutas01.jpeg"
 ];
 // verificacion de los clicks
 function clicked() { 

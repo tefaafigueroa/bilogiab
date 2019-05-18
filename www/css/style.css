@@ -18,6 +18,10 @@ ion-content{
   position: relative;
   animation: dna-rotate 1.6s infinite linear;
 }
+.ut{
+  height: 900px;
+  width: 500px;
+}
 .dna::after,
 .dna::before {
   content: '';
