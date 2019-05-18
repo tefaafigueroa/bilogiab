@@ -58,7 +58,7 @@ var images = [
 "https://previews.123rf.com/images/kulyk/kulyk1507/kulyk150700018/44033450-las-vitaminas-y-los-minerales-de-la-fruta-de-banano-infograf%C3%ADa-sobre-los-nutrientes-en-el-banano-ilust.jpg",
 "https://t2.uc.ltmcdn.com/images/1/4/2/frutas_y_verduras_con_vitamina_e_49241_600.jpg",
 "https://t2.uc.ltmcdn.com/images/1/4/2/frutas_y_verduras_con_vitamina_e_49241_600.jpg",
-"hhttps://www.ecured.cu/images/thumb/5/51/Vitaminas_y_Frutas01.jpeg/200px-Vitaminas_y_Frutas01.jpeg",
+"https://www.ecured.cu/images/thumb/5/51/Vitaminas_y_Frutas01.jpeg/200px-Vitaminas_y_Frutas01.jpeg",
 "https://www.ecured.cu/images/thumb/5/51/Vitaminas_y_Frutas01.jpeg/200px-Vitaminas_y_Frutas01.jpeg"
 ];
 // verificacion de los clicks
